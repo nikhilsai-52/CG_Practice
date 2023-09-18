@@ -1,0 +1,5 @@
+﻿  OpenGLTest.cpp
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(304,38): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(305,42): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(306,42): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  OpenGLTest.vcxproj -> C:\Users\nikhi\source\repos\OpenGLTest\x64\Debug\OpenGLTest.exe
